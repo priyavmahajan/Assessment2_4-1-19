@@ -1,0 +1,9 @@
+C:\Users\priyankaj\source\repos\assessment2\assessment2\bin\Debug\assessment2.exe.config
+C:\Users\priyankaj\source\repos\assessment2\assessment2\bin\Debug\assessment2.exe
+C:\Users\priyankaj\source\repos\assessment2\assessment2\bin\Debug\assessment2.pdb
+C:\Users\priyankaj\source\repos\assessment2\assessment2\obj\Debug\assessment2.Form1.resources
+C:\Users\priyankaj\source\repos\assessment2\assessment2\obj\Debug\assessment2.Properties.Resources.resources
+C:\Users\priyankaj\source\repos\assessment2\assessment2\obj\Debug\assessment2.csproj.GenerateResource.cache
+C:\Users\priyankaj\source\repos\assessment2\assessment2\obj\Debug\assessment2.csproj.CoreCompileInputs.cache
+C:\Users\priyankaj\source\repos\assessment2\assessment2\obj\Debug\assessment2.exe
+C:\Users\priyankaj\source\repos\assessment2\assessment2\obj\Debug\assessment2.pdb
